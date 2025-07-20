@@ -1,0 +1,4213 @@
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="در مورد">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="در این صورت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="ما بین">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>PRON</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="قبل از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="در این صورت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="فی نفسه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="در صورتی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="از قبیل">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="از قبیل">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="در صورتی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="به صورت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="علاوه بر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="به صورت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="مبنی بر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="در خصوص">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="قبل از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Law-Social_K</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical-Hygiene_K</Genre>
+	</Entry>
+	
+<Entry Form="علاوه بر این">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical-Hygiene_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical-Hygiene_K</Genre>
+	</Entry>
+	
+<Entry Form="در نتیجه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical-Hygiene_K</Genre>
+	</Entry>
+	
+<Entry Form="در صورت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical-Hygiene_K</Genre>
+	</Entry>
+	
+<Entry Form="از طریق">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical-Hygiene_K</Genre>
+	</Entry>
+	
+<Entry Form="از طریق">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="جلوگیری کند">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>VERB</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به عبارت دیگر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="علاوه بر این">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADV</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به طور">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="در عوض">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="در حالی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به دنبال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="تا به حال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به دنبال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="از طریق">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="از طریق">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="علاوه بر این">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="قبل از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="پیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="با وجودی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="با این وجود">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="به طور">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="به طور">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="به طور">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="از پیش">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="با این وجود">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="از طرف دیگر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="پیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="از طریق">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="در حالی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="مبنی بر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="به صورت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="به خصوص">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="به نظر می‌رسد">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>VERB</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="به ترتیب">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="از طریق">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="به ویژه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="به هیچ وجه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="قبل از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="علاوه بر اینکه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="علاوه بر اینکه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="به زودی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Relig-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Relig-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Relig-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="از طریق">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Relig-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="در مجموع">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Relig-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Relig-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="به صورت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Relig-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="به زودی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="پیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="به زودی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="در مورد">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="مگر اینکه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="در مورد">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="به کلی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene_H</Genre>
+	</Entry>
+	
+<Entry Form="با وجود اینکه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene_H</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene_H</Genre>
+	</Entry>
+	
+<Entry Form="از این‌رو">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene_H</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="به غیر از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="از آنجایی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="چرا که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>SCONJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="از این جهت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="از سوی دیگر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="بنا بر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>FPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>FPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="در حال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>FPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="از سوی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>FPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="بر خلاف">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>FPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>FPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="به این ترتیب">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="تا اینکه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="از دست رفته">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="به این ترتیب">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="تا به حال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="در نتیجه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="به هیچ عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="به هیچ عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="در حالی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="در نتیجه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="با وجود اینکه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="با وجود اینکه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="تا اینکه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="تا اینکه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="در غیر این صورت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="به این ترتیب">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="از سوی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>LawPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="در حالی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>LawPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>LawPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="از سوی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>LawPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>LawPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="از سوی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>LawPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="قبل از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="از قبیل">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="به عبارت دیگر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene_H</Genre>
+	</Entry>
+	
+<Entry Form="به همین ترتیب">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene_H</Genre>
+	</Entry>
+	
+<Entry Form="از آنجایی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene_H</Genre>
+	</Entry>
+	
+<Entry Form="بر روی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene_H</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="در حالی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="با این حال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="نه تنها">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADV</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="در نتیجه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="از همین رو">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="به عبارتی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="چرا که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>SCONJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="چرا که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>SCONJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="به‌ عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="از آن جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="بنا بر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="پیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="با این حال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="از این پس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="در حالی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="پیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="پیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="به همراه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="بر روی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="بر روی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="بر روی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="بر روی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="بر ضد">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="به جای مانده">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="به طور">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="با این حال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="با این حال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="در حالی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="به‌طوری که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="در حالی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="به‌طوری که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="راجع به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="به ویژه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="در ازای">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitic_M</Genre>
+	</Entry>
+	
+<Entry Form="در برابر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitic_M</Genre>
+	</Entry>
+	
+<Entry Form="در مقابل">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitic_M</Genre>
+	</Entry>
+	
+<Entry Form="در حالی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="غیر از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="با این وجود">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="در حالی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="در صورت">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="در واقع">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="پیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="در صورتی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="به طور">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="این که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>PRON</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="تا زمانی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="از طریق">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_M</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_M</Genre>
+	</Entry>
+	
+<Entry Form="در خصوص">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_M</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="در صورتی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="در حالی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SocialFamily_M</Genre>
+	</Entry>
+	
+<Entry Form="قبل از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SocialFamily_M</Genre>
+	</Entry>
+	
+<Entry Form="به هر حال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SocialFamily_M</Genre>
+	</Entry>
+	
+<Entry Form="آن قدر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SocialFamily_M</Genre>
+	</Entry>
+	
+<Entry Form="به خاطر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SocialFamily_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="در صورتی که">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="بعد از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="پیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_M</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="به خصوص">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="به تنهایی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="علاوه بر">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="به ویژه">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="از قبیل">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Technology_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Technology_M</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADJ</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Technology_M</Genre>
+	</Entry>
+	
+<Entry Form="در واقع">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Technology_M</Genre>
+	</Entry>
+	
+<Entry Form="خاطرنشان می‌کند">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>VERB</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Technology_M</Genre>
+	</Entry>
+	
+<Entry Form="بر اساس">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Technology_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="بیش از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="پس از">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="به موقع">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="با عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Div-Art-Media_M</Genre>
+	</Entry>
+	
+<Entry Form="هرازگاهی">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADV</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Div-Art-Media_M</Genre>
+	</Entry>
+	
+<Entry Form="به‌ عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Div-Art-Media_M</Genre>
+	</Entry>
+	
+<Entry Form="نسبت به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="با این حال">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="با توجه به">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="به عنوان">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Business-Tech_M</Genre>
+	</Entry>
+	
+<Entry Form="از جمله">
+		<Lex_Unit>p</Lex_Unit>
+		<PoS>ADP</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Business-Tech_M</Genre>
+	</Entry>
+	
