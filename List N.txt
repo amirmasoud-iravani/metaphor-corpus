@@ -1,0 +1,4334 @@
+<Entry Form="خانم آوازخوان کله طاس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="خانه نمایش دا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="خانم آوازخوان کله طاس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="خانه نمایش دا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="شکوفه روان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="مرادی نور">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="رحیمی نژاد">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="خانم آوازخوان کله طاس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="خانه نمایش دا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Art-Culture_K</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضاییه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="نیروی انتظامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضاییه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضاییه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضاییه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضاییه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="نیروی انتظامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضاییه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Law_K</Genre>
+	</Entry>
+	
+<Entry Form="کاخ سفید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="عربستان سعودی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="عربستان سعودی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="Haichang Ocean Park Holdings">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="امارات متحده عربی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="جاده ابریشم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="کره جنوبی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="جاده ابریشم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="امارات متحده عربی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="عربستان سعودی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="Asda'a BCW">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="عربستان سعودی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="خاور نزدیک">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="کاخ سفید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="عصر ایران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="کان نیوز">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="کان نیوز">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="حزب الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="کان نیوز">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="حزب الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="حزب الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده آمریکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Diplomacy-Politics_K</Genre>
+	</Entry>
+	
+<Entry Form="Potato Research">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="وزارت کشاورزی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="موسسه ملی سلامت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="آکریل آمید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="غذا و داروی آمریکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="آکریل آمید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="آکریل آمید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="آکریل آمید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="غذا و داروی آمریکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="آکریل آمید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="آکریل آمید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="غذا و داروی آمریکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="آکریل آمید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="غذا و داروی آمریکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene-Medical_K</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="سازمان امنیت فدرال">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="کمیته تحقبقات فدراسیون روسیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="وزارت دفاع">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="دریای سیاه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="سازمان ملل متحد">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="کمیته ضد تروربسم ملی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="سرویس امنیت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="پل کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="کرچ شبه‌جزیره کریمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Politic-World_k</Genre>
+	</Entry>
+	
+<Entry Form="سرویس ترجمه شفقنا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="آی24 نیوز">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="موسسه تحقیقات و سیاست بین‌المللی IMPACT-SE">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="عربستان سعودی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="عربستان سعودی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="موسسه تحقیقات و سیاست بین‌المللی IMPACT-SE">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="شبه‌جزیره سینا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="مؤسسه نظارت بر صلح و رواداری فرهنگی در آموزش مدارس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="عربستان سعودی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Politic</Genre>
+	</Entry>
+	
+<Entry Form="چت ChatGPT">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="مرکز فنی تولید سیما">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Culture-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="مرکز آمار ایران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance-Tech_K</Genre>
+	</Entry>
+	
+<Entry Form="RMC Sport">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="دو پرنس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>sportt_K</Genre>
+	</Entry>
+	
+<Entry Form="هری پاتر و سنگ جادو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="هری پاتر و سنگ جادو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="هری پاتر و سنگ جادو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="هری پاتر و سنگ جادو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="هری پاتر و سنگ جادو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Fiction_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="اسپرتس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Thetr-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="گربه نره و روباه مکار">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Thetr-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="کانون پرورش فکری کودکان و نوجوانان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Thetr-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="چهچه چلچله چهل گیس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Thetr-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="بارگاه سلیم‌خان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Thetr-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="ربات‌های غول‌پیکر">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Thetr-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="بوسلمه غول دریا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Thetr-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="آذربایجان آیین‌لری">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Thetr-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Hygiene_H</Genre>
+	</Entry>
+	
+<Entry Form="شب‌های طولانی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="شب‌های طولانی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="زندگی دوباره یک و دو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="رویای صورتی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="فاطمی صدر">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="رقص شکوفه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="کوچه پس کوچه‌های کودکی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="معجزه عشق">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="رنج بی‌پایان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="کودکی یک و دو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="شور عشق">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="پاییز سبز">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="روح شکوفه‌های امید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="اشک زلال">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="اشک زلال">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="والتس مهتابی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="شب ارغوانی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="شور عشق">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="والتس در شب مهتابی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Music-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="من ترانه 15 سال دارم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PRON</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="زیبا صدایم کن">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="کانون پرورش فکری کودکان و نوجوانان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="زیبا صدایم کن">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="دختری با کفش‌های کتانی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="کانون پرورش فکری">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>2</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="من ترانه 15 سال دارم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PRON</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="کانون پرورش فکری کودکان و نوجوانان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="کانون پرورش فکری">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Film-Art_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>FPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="حزب الاسلامی الترکستانی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>FPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="امداد و نجات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>3Medical_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>LawPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="خانه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>LawPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="جمهوری اسلامی ایران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>LawPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="سازمان ثبت احوال کشور">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="ثبت احوال">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="ثبت احوال">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="ثبت احوال">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="سعید بهزاد">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="شهره فاطمه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="ملک الدوله خان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="شوکت الملک">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="حاجیه سلطان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="شورای عالی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="گت آقا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_H</Genre>
+	</Entry>
+	
+<Entry Form="افشین خان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="افشین خان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sport_H</Genre>
+	</Entry>
+	
+<Entry Form="بیا روبیکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>VERB</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="بیا روبیکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>VERB</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="همراه اول">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="بانک ملی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="سروش پلاس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="وزارت ارتباطات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>IT-Business_H</Genre>
+	</Entry>
+	
+<Entry Form="وزارت اطلاعات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="سازمان جاسوسی رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="قرآن مجید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="وزارت اطلاعات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="سازمان جاسوسی رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="قرآن مجید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="وزارت اطلاعات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="سازمان جاسوسی رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="قرآن مجید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="وزارت اطلاعات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="کلام‌الله مجید">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="سربازان گمنام امام زمان عج">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="قرآن کریم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitical_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="یواس‌ای تودی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="انجمن پزشکی ایالت اوهایو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="انجمن پزشکی ایالت اوهایو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="انجمن پزشکی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="انجمن پزشکی ایالت اوهایو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HygMedical_H</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecPolitical_h</Genre>
+	</Entry>
+	
+<Entry Form="جمهوری اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecPolitical_h</Genre>
+	</Entry>
+	
+<Entry Form="انقلاب اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecPolitical_h</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecPolitical_h</Genre>
+	</Entry>
+	
+<Entry Form="سپاه پاسداران انقلاب اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecPolitical_h</Genre>
+	</Entry>
+	
+<Entry Form="جمهوری اسلامی پاکستان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecPolitical_h</Genre>
+	</Entry>
+	
+<Entry Form="ان‌بی‌سی نیوز">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="اتحادیه بازیگران آمریکا SAG-AFTRA">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="اتحادیه بازیگران آمریکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="انجمن نویسندگان آمریکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="انجمن نویسندگان آمریکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="اتحادیه تهیه‌کنندگان فیلم و تلویزیون آمریکا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>ArtCinema_h</Genre>
+	</Entry>
+	
+<Entry Form="شورای رقابت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="شورای رقابت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="شورای رقابت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="شورای رقابت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>1</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="شورای رقابت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="شورای رقابت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="شورای رقابت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="مکث کلوت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="پیکاپ فوتون">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="مکث کلوت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="دیگنیتی پرایم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="دیگنیتی پرستیژ">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="لاماری ایما">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="تیگو۸ پرومکس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="تیگو۸ پرومکس IE">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="تیگو 7 پرو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="فونیکس FX16">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="تیگو 7 IE">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="آریزو 6 پرو">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="جک J4">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="کی ام سی J7">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="جک S5">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="پیکاپ فوتون">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="هایما S7 پلاس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="هایما S7 پلاس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="پیکاپ فوتون دیزل">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="هایما S8">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="هایما S5 پلاس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_h</Genre>
+	</Entry>
+	
+<Entry Form="سپاه پاسداران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="انقلاب اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="سپاه پاسداران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="سپاه پاسداران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="انقلاب اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="انقلاب اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="انقلاب اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="سپاه پاسداران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="اتحاد جماهیر شوروی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="سازمان اطلاعات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="سپاه پاسداران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="انقلاب اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="سپاه پاسداران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_h</Genre>
+	</Entry>
+	
+<Entry Form="فضای تولید و تبادل اطلاعات پایتخت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="پلیس فتا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="معظمی گودرزی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="معظمی گودرزی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="پلیس فتا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="پلیس فتا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="پلیس فتا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="تهران بزرگ">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="صدا و سیما">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_h</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="مرکز آمار و فناوری اطلاعات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="همشهری آنلاین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="کاظمی فرد">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="مرکز آمار و فناوری اطلاعات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="کاظمی فرد">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="مرکز آمار و فناوری اطلاعات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="معاونت فناوری دادگستری">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="فناوری اطلاعات">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>AI-Forensic-Court_h</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitic_M</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitic_M</Genre>
+	</Entry>
+	
+<Entry Form="باشگاه پرسپولیس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="باشگاه پرسپولیس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="زوریا لوهانسک">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="دونباس زاپوروژیا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="منشور سازمان ملل">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>WorldPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="عید قربان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="جمهوری اسلامی ایران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="مقام معظم رهبری">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="مرکز پژوهش‌ها و نوآوری">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="جمهوری اسلامی ایران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="جمهوری اسلامی ایران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="جمهوری اسلامی ایران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="جمهوری اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>SecurPolitics_M</Genre>
+	</Entry>
+	
+<Entry Form="شمس آبادی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_M</Genre>
+	</Entry>
+	
+<Entry Form="اتحادیه اروپا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="بانک مرکزی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="اتحادیه اروپا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="بانک مرکزی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="اتحادیه اروپا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="صندوق بین‌المللی پول">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="صندوق بین‌المللی پول">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="ذخایر حق برداشت ویژه SDRs">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="ذخایر حق برداشت ویژه SDRs">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="صندوق بین‌المللی پول">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="بانک مرکزی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="ذخایر حق برداشت ویژه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="صندوق بین‌المللی پول">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="صندوق بین‌المللی پول">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="بانک مرکزی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="سازمان ملل">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>1</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="فراکسیون وفاداری به مقاومت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="سازمان ملل متحد">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="حزب الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="سازمان ملل">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="حزب الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="حزب الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="حزب الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="کمیته روابط خارجی و امنیت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="رژیم صهیونیستی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="حزب الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="سازمان ملل">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="حزب الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="سازمان ملل">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>World-Politics_M</Genre>
+	</Entry>
+	
+<Entry Form="رجبی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Finance_M</Genre>
+	</Entry>
+	
+<Entry Form="گروهک مجاهدین خلق">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="آلبانی دیلی نیوز">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="کمپ اشرف 3">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="گروهک منافقین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="مجاهدین خلق">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="گروهک تروریستی منافقین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social-Albani_M</Genre>
+	</Entry>
+	
+<Entry Form="سازمان پزشکی قانونی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_M</Genre>
+	</Entry>
+	
+<Entry Form="اداره کل پزشکی قانونی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_M</Genre>
+	</Entry>
+	
+<Entry Form="پزشکی قانونی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_M</Genre>
+	</Entry>
+	
+<Entry Form="اداره کل هواشناسی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_M</Genre>
+	</Entry>
+	
+<Entry Form="اداره کل هواشناسی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_M</Genre>
+	</Entry>
+	
+<Entry Form="اداره کل هواشناسی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_M</Genre>
+	</Entry>
+	
+<Entry Form="اداره کل هواشناسی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social_M</Genre>
+	</Entry>
+	
+<Entry Form="هاشمی‌نسب">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Sports_M</Genre>
+	</Entry>
+	
+<Entry Form="پزشکی قانونی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Medical_M</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="جامعه مدرسین حوزه علمیه قم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="آیت الله">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="حسینی بوشهری">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="جامعه مدرسین حوزه علمیه قم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="انقلاب اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="رهبر معظم انقلاب">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="انقلاب اسلامی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="محسنی اژه‌ای">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="جامعه مدرسین حوزه علمیه قم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="جامعه مدرسین ">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="شورای عالی جامعه مدرسین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="جامعه مدرسین">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="محسنی اژه‌ای">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="قوه قضائیه">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Political_M</Genre>
+	</Entry>
+	
+<Entry Form="نظارت بر اماکن پلیس اطلاعات و امنیت">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="میراث فرهنگی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="مشارکت‌های مردمی و مسئولیت اجتماعی سازمان حفاظت محیط زیست">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="خانه محیط زیست">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="دفتر مشارکت‌های مردمی و مسئولیت اجتماعی سازمان حفاظت محیط زیست">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="دفتر مشارکت‌های مردمی و مسئولیت اجتماعی سازمان حفاظت محیط زیست">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="عید غدیر خم">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="سازمان حفاظت محیط زیست">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="دفتر مشارکت‌های مردمی و مسئولیت اجتماعی سازمان">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="دفتر مشارکت‌های مردمی و مسئولیت اجتماعی">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="عباسی‌نیا">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="دربند ورگه‌سران">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Social2ta_M</Genre>
+	</Entry>
+	
+<Entry Form="مرکز پزشکی حج و زیارت هلال‌احمر">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="مرکز پزشکی حج و زیارت هلال‌احمر">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="ملک فیصل">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>HajiMedical_M</Genre>
+	</Entry>
+	
+<Entry Form="آن سوی سیاست">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>NOUN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Div-Art-Media_M</Genre>
+	</Entry>
+	
+<Entry Form="عیسی به دین خود موسی به دین خود">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>1</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>1</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Div-Art-Media_M</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>0</Not_Met>
+		<Ind_Met>2</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="ایالات متحده">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="لس آنجلس">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Gonbad-Env-Tech-Social_M</Genre>
+	</Entry>
+	
+<Entry Form="مدرسه کسب و کار Pascifico">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Business-Tech_M</Genre>
+	</Entry>
+	
+<Entry Form="ایرانسل لبز">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Business-Tech_M</Genre>
+	</Entry>
+	
+<Entry Form="مرکز نوآوری ایرانسل">
+		<Lex_Unit>n</Lex_Unit>
+		<PoS>PROPN</PoS>
+		<Not_Met>2</Not_Met>
+		<Ind_Met>0</Ind_Met>
+		<Imp_Met>0</Imp_Met>
+		<Dir_Met>0</Dir_Met>
+		<M_Flag>0.0</M_Flag>
+		<Genre>Business-Tech_M</Genre>
+	</Entry>
+	
